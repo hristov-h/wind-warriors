@@ -29,5 +29,5 @@ $ pip install opencv-contrib-python
 
 ![Game_tracking_screenshot](./Screenshot_tracking.png)
 
-##Project Status
+## Project status
 Project is: _in_progress_
