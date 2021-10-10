@@ -23,3 +23,8 @@ $ sudo apt install python3-pygame
 ```
 $ pip install opencv-contrib-python
 ```
+
+## Screenshot
+![Game_screenshot](./Screenshot.png)
+
+![Game_tracking_screenshot](./Screenshot_tracking.png)
